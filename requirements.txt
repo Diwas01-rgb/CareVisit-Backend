@@ -9,3 +9,4 @@ python-multipart
 httpx
 pillow
 python-dotenv
+psycopg2-binary
